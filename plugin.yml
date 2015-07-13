@@ -1,0 +1,4 @@
+name: ARKNametagRecipe
+main: org.dyndns.rottenkomquat.ArkNametagRecipe
+version: 1.0
+commands:
